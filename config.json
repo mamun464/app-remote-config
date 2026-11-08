@@ -1,0 +1,7 @@
+{
+  "config_version": 1,
+  "updated_at": "2026-11-08T00:00:00Z",
+  "maintenance_mode": false,
+  "api_base_url": "https://backend.qiwa.bd",
+  "minimum_app_version": "1.0.0"
+}
